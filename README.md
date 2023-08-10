@@ -20,11 +20,11 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Deepikakasikota/Sales_Excel_Project/blob/main/P%20%26%20L%20Year%20report.pdf)_&_(https://github.com/Deepikakasikota/Sales_Excel_Project/blob/main/P%20%26%20L%20Months%20report.pdf)_
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Deepikakasikota/Sales_Excel_Project/blob/main/P%20%26%20L%20Year%20report.pdf)_&_[Months](https://github.com/Deepikakasikota/Sales_Excel_Project/blob/main/P%20%26%20L%20Months%20report.pdf)_
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Deepikakasikota/Sales_Excel_Project/blob/main/P%20%26%20L%20for%20Markets%20report.pdf)_
   
-   **3.** Create GM % by Quarters of Subzones reports by _[GM % by Quarters] (https://github.com/Deepikakasikota/Sales_Excel_Project/blob/main/GM%20%25%20by%20Quarters.pdf)_
+   **3.** Create GM % by Quarters of Subzones reports by _[GM % by Quarters](https://github.com/Deepikakasikota/Sales_Excel_Project/blob/main/GM%20%25%20by%20Quarters.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
