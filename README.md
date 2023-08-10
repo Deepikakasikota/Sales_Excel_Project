@@ -4,9 +4,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[net sales report]([https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf](https://github.com/Deepikakasikota/Sales_Excel_Project/blob/main/net%20sales%20report.pdf))_
+    **1.** Create a _[net sales report] (https://github.com/Deepikakasikota/Sales_Excel_Project/blob/main/net%20sales%20report.pdf)_
 
-    **2.** Create a _[net sales in India report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Create a _[net sales in India report]([https://github.com/Deepikakasikota/Sales_Excel_Project/blob/main/net%20sales%20in%20india.pdf])_
 
     **3.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
 
