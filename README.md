@@ -4,13 +4,12 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[net sales report](https://github.com/Deepikakasikota/Sales_Excel_Project/blob/main/net%20sales%20report.pdf)_
+   
+    **1.** Create a _[net sales in India report](https://github.com/Deepikakasikota/Sales_Excel_Project/blob/main/net%20sales%20in%20india.pdf)_
 
-    **2.** Create a _[net sales in India report](https://github.com/Deepikakasikota/Sales_Excel_Project/blob/main/net%20sales%20in%20india.pdf)_
+    **2.** Create a _[customer performance report](https://github.com/Deepikakasikota/Sales_Excel_Project/blob/main/Customer%20performance%20Report.pdf)_
 
-    **3.** Create a _[customer performance report](https://github.com/Deepikakasikota/Sales_Excel_Project/blob/main/Customer%20performance%20Report.pdf)_
-
-    **4.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Deepikakasikota/Sales_Excel_Project/blob/main/P%20%26%20L%20for%20Markets%20report.pdf)_
+    **3.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Deepikakasikota/Sales_Excel_Project/blob/main/P%20%26%20L%20for%20Markets%20report.pdf)_
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
